@@ -1,7 +1,7 @@
 # Task Manager
 
 ## About
-This is a simple task manager application built with Typescript, React, Jotai, Firebase, React Query and Toastify. It allows users to create, edit, and delete tasks, and also includes features such as filtering by status, due date, and priority, as well as sorting by various criteria.
+This is a simple task manager application built with Typescript, React, Jotai, Firebase, React Query, Tailwind, and Toastify. It allows users to create, edit, and delete tasks, and also includes features such as filtering by status, due date, and priority, as well as sorting by various criteria.
 
 ## Technologies Used
 - Typescript
